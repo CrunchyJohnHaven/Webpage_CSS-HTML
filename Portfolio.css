@@ -1,0 +1,201 @@
+
+/*CSS reset settings here*/
+*{
+ margin: 0px;
+ padding: 0px;
+ display:block;
+ color: black;
+}
+
+a {
+    color: #63dae6
+}
+p{
+    padding-bottom: 10px;
+}
+}
+p1 { background: linear-gradient(#e4d9e3, #8a8894, #e4d9e3); 
+}
+ul {
+    padding-left: 15px;
+    padding-bottom:0px;
+}
+#bluetext {
+    color: #63dae6;
+}
+#indent1 {
+    padding: 10px;
+}
+#indent2 {
+    padding: 30px;
+}
+h1 {
+    color: black;
+    margin-left: 5px;
+}
+h2 {
+    margin-left: 592px;
+    vertical-align: top;
+    position: absolute;
+    top: 32px;
+    left: 199;
+}
+h3 {
+    background: linear-gradient( #afaeb3, #878592, #afaeb3);
+    display: block;
+    padding-top: 5px;
+    padding-left: 5px;
+}
+h4 {
+    background: linear-gradient( #afaeb3, #878592, #afaeb3);
+    display: inline-block;
+    padding-top: 5px;
+    border-radius: 5px;
+    margin-left: 116px;
+}
+
+.i {
+    max-width: 100px;
+}
+.img2 {
+    padding:5px;
+    width: 300px;
+    height: 200px;
+
+}
+.img3 {
+    margin-top: 6px;
+    width: 50px;
+    height: 50px;
+    display:inline-block;
+    margin-left: 6px;
+}
+
+#wrapper{
+ width: 1000px;
+ height: 1000px;
+ background-color: #3a262d;
+ margin: 0;
+ padding-left: 0px;
+ padding-bottom: 15px;
+ padding-right: 15px;
+ align-items: center;
+ font-family: "Times New Roman", Times, serif;
+ display:inline-block;
+}
+
+#header{
+ width: 1006px;
+ background-color: #fafafa;
+ color:black;
+ margin-bottom: 15px;
+ font-family: "Times New Roman", Times, serif;
+ padding: 5px;
+ display: inline-block;
+}
+#img {
+padding:5px;
+width: 400px;
+background-color: #297c8c;
+display:inline-block;
+vertical-align: top;
+height: 300px;
+margin-right: 15px;
+font-family: "Times New Roman", Times, serif;
+margin-left: 15px;
+
+}
+#about {
+ height: 300px;
+ width: 500px;
+ background-color: #ebe4eb;
+ display:inline-block;
+ font-family: "Times New Roman", Times, serif;
+ border-radius: 5px;
+ padding: 5px;
+ vertical-align: top;
+ }
+
+ #LaMode {
+    position: absolute;
+    left: 13px;
+    height: 375px;
+    width: 305px;
+    margin-top: 175px;
+    background-color: #ebe4eb;
+    display:inline-block;
+    font-family: "Times New Roman", Times, serif;
+    border-radius: 5px;
+    padding: 0px;
+    vertical-align: top;
+   
+ }
+
+ #Family {
+    position: absolute;
+    left: 340px;
+    height: 375px;
+    width: 305px;
+    margin-top: 175px;
+    background-color: #ebe4eb;
+    display:inline-block;
+    font-family: "Times New Roman", Times, serif;
+    border-radius: 5px;
+    padding: 0px;
+    vertical-align: top;
+ }
+ #fiveEleven {
+    position: absolute;
+    left: 666px;
+    height: 375px;
+    width: 305px;
+    margin-top: 175px;
+    background-color: #ebe4eb;
+    display:inline-block;
+    font-family: "Times New Roman", Times, serif;
+    border-radius: 5px;
+    padding: 0px;
+    vertical-align: top;
+ }
+ #Tech1 {
+    position: absolute;
+    left: -653px;
+    top:199px;
+    height: 208px;
+    width: 305px;
+    margin-top: 175px;
+    background-color: #ebe4eb;
+    display:inline-block;
+    font-family: "Times New Roman", Times, serif;
+    border-radius: 5px;
+    padding: 0px;
+    vertical-align: top;
+ }
+ #Tech2 {
+    position: absolute;
+    left: -326px;
+    top:199px;
+    height: 208px;
+    width: 305px;
+    margin-top: 175px;
+    background-color: #ebe4eb;
+    display:inline-block;
+    font-family: "Times New Roman", Times, serif;
+    border-radius: 5px;
+    padding: 0px;
+    vertical-align: top;
+ }
+ #Tech3 {
+    position: absolute;
+    left: 0px;
+    top:199px;
+    height: 208px;
+    width: 305px;
+    margin-top: 175px;
+    background-color: #ebe4eb;
+    display:inline-block;
+    font-family: "Times New Roman", Times, serif;
+    border-radius: 5px;
+    padding: 0px;
+    vertical-align: top;
+ }
